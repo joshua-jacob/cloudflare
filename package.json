@@ -13,7 +13,9 @@
   },
   "dependencies": {
     "@primevue/themes": "^4.0.4",
+    "axios": "^1.7.7",
     "bootstrap": "^5.3.3",
+    "dotenv": "^16.4.5",
     "firebase": "^10.13.1",
     "primevue": "^4.0.4",
     "vue": "^3.4.29",
@@ -23,6 +25,7 @@
     "@rushstack/eslint-patch": "^1.8.0",
     "@vitejs/plugin-vue": "^5.0.5",
     "@vue/eslint-config-prettier": "^9.0.0",
+    "dotenv-webpack": "^8.1.0",
     "eslint": "^8.57.0",
     "eslint-plugin-vue": "^9.23.0",
     "prettier": "^3.2.5",
